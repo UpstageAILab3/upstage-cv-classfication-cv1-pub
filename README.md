@@ -11,21 +11,23 @@
 ### Environment
 - VSC, server RTX 3090
 
-### Requirements
-- _Write Requirements_
-
 ## 1. Competiton Info
-
+- Document Type Classification / 17종 문서 타입 분류
+- 
 ### Overview
 
-Document Type Classification / 17종 문서 타입 분류
 ![image](https://github.com/user-attachments/assets/2dbfea5b-b253-4fd1-b612-43dbc684a6d1)
 
 
 ### Timeline
 
-- ex) January 10, 2024 - Start Date
-- ex) February 10, 2024 - Final submission deadline
+- July 30, 2024 - Start Date
+- August 11, 2024 - Final submission deadline
+
+### Evaluation 
+- Macro F1
+- ![image](https://github.com/user-attachments/assets/bf58d333-afcc-4669-8fd9-d03a4ca64857)
+
 
 ## 2. Components
 
@@ -35,17 +37,19 @@ Document Type Classification / 17종 문서 타입 분류
 
 e.g.
 ```
-├── code
-│   ├── jupyter_notebooks
-│   │   └── model_train.ipynb
+├── code(.ipynb)
+│   ├── EDA
+│   ├── Augmentation
+│   ├── Modeling
 │   └── train.py
 ├── docs
 │   ├── pdf
 │   │   └── (Template) [패스트캠퍼스] Upstage AI Lab 1기_그룹 스터디 .pptx
-│   └── paper
+│   └── Notion
 └── input
     └── data
-        ├── eval
+        ├── test
+        ├── valid
         └── train
 ```
 
@@ -53,9 +57,14 @@ e.g.
 
 ### Dataset overview
 
-- _Explain using data_
+- ![image](https://github.com/user-attachments/assets/b18505d3-e72f-45d2-9b89-b6cf05dff381)
+
 
 ### EDA
+- ![image](https://github.com/user-attachments/assets/440c81b4-561d-40cf-ad6e-2f34521dfdb7)
+- ![image](https://github.com/user-attachments/assets/d438536b-6f44-46f8-a252-6a9a578c9385)
+- ![image](https://github.com/user-attachments/assets/518b7144-d60b-46c6-b6a1-92c4b3fffb4f)
+- ![image](https://github.com/user-attachments/assets/2db44821-f42b-4da5-823c-c33f9323976d)
 
 - _Describe your EDA process and step-by-step conclusion_
 
