@@ -59,6 +59,7 @@
 
 
 ### EDA
+- 데이터 기본정보 확인, 이미지 샘플 시각화, 클래스 분포 시각화, 이미지 크기 확인, 클래스 불균형 확인 
 - ![image](https://github.com/user-attachments/assets/440c81b4-561d-40cf-ad6e-2f34521dfdb7)
 - ![image](https://github.com/user-attachments/assets/d438536b-6f44-46f8-a252-6a9a578c9385)
 - ![image](https://github.com/user-attachments/assets/f98266f3-6d5e-4c72-93a6-dde55b72e0da)
@@ -82,9 +83,11 @@
 ## 5. Result
 
 ### Leader Board
-
+- Leaderboard_mid
 - ![image](https://github.com/user-attachments/assets/664528d7-cdfc-4e77-ac84-d9ebdbb5bb73)
 
+- Leaderboard_final
+- 
 
 ### Presentation
 
