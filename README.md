@@ -84,10 +84,10 @@
 
 ### Leader Board
 - Leaderboard_mid
-- ![image](https://github.com/user-attachments/assets/664528d7-cdfc-4e77-ac84-d9ebdbb5bb73)
+  - ![image](https://github.com/user-attachments/assets/664528d7-cdfc-4e77-ac84-d9ebdbb5bb73)
 
 - Leaderboard_final
-- 
+  - ![image](https://github.com/user-attachments/assets/bd911d2d-81c1-4d14-ab8a-0429ce327856)
 
 ### Presentation
 
