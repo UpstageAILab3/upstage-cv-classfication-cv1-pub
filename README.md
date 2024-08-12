@@ -34,7 +34,7 @@
 ## 2. Components
 
 ### Directory
-
+```bash
 ├── code(.ipynb)
 │   ├── EDA
 │   ├── Augmentation
