@@ -10,10 +10,12 @@
 ## 0. Overview
 ### Environment
 - VSC, server RTX 3090
+- 협업 환경 : Notion, Slack
+- 소통 환경 : Zoom, Slack
 
 ## 1. Competiton Info
 - Document Type Classification / 17종 문서 타입 분류
-- 
+  
 ### Overview
 
 ![image](https://github.com/user-attachments/assets/2dbfea5b-b253-4fd1-b612-43dbc684a6d1)
@@ -33,10 +35,6 @@
 
 ### Directory
 
-- _Insert your directory structure_
-
-e.g.
-```
 ├── code(.ipynb)
 │   ├── EDA
 │   ├── Augmentation
