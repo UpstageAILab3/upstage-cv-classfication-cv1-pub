@@ -83,8 +83,8 @@
 
 ### Leader Board
 
-- _Insert Leader Board Capture_
-- _Write rank and score_
+- ![image](https://github.com/user-attachments/assets/664528d7-cdfc-4e77-ac84-d9ebdbb5bb73)
+
 
 ### Presentation
 
@@ -92,10 +92,3 @@
 
 ## etc
 
-### Meeting Log
-
-- _Insert your meeting log link like Notion or Google Docs_
-
-### Reference
-
-- _Insert related reference_
