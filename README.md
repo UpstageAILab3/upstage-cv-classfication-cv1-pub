@@ -67,7 +67,7 @@
 
 ### Data Processing
 
-- _Describe data processing process (e.g. Data Labeling, Data Cleaning..)_
+- ![image](https://github.com/user-attachments/assets/cb42186b-7a3c-4eb7-abe0-e92561e28ebe)
 
 ## 4. Modeling
 
