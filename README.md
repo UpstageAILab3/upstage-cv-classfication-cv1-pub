@@ -61,7 +61,7 @@
 ### EDA
 - ![image](https://github.com/user-attachments/assets/440c81b4-561d-40cf-ad6e-2f34521dfdb7)
 - ![image](https://github.com/user-attachments/assets/d438536b-6f44-46f8-a252-6a9a578c9385)
-- ![image](https://github.com/user-attachments/assets/518b7144-d60b-46c6-b6a1-92c4b3fffb4f)
+- ![image](https://github.com/user-attachments/assets/f98266f3-6d5e-4c72-93a6-dde55b72e0da)
 - ![image](https://github.com/user-attachments/assets/2db44821-f42b-4da5-823c-c33f9323976d)
 - 
 
