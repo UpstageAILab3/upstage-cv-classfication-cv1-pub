@@ -73,12 +73,35 @@
 ## 4. Modeling
 
 ### Model descrition
-
+#### 최제우
+- EfficientNet(efficientnet_b0), ResNet(resnet34, resnet50)을 활용
+- 모델 별로 image_size, batch_size를 병경
+#### 이아윤
 - timm - resnet34, resnet50, efficientnet_b0, efficientnet_b4 모델로 실험
   - 시간과 성능 고려하여 efficientnet_b0 고정 
 
 ### Modeling Process
 
+-timm을 사용하여 미리 학습된 모델을 로드
+<code>
+model = timm.create_model(
+    model_name,
+    pretrained=True,
+    num_classes=17
+).to(device)
+</code>
+#### 최제우
+- backbone : resnet34, resnet50, efficientnet_b0
+- image_size : 224, 256, 521
+- batch_size : 16, 32
+- scheduler를 사용하여 learning rate 조절
+  <code>
+  scheduler = optim.lr_scheduler.LambdaLR(optimizer=optimizer,
+                                      lr_lambda=lambda epoch: 0.95 ** epoch,
+                                      last_epoch=-1,
+                                      verbose=False)
+  </code>
+#### 이아윤
 - 가중치 : 시각화를 통해 양식이 유사한 3, 7, 14 클래스에 대한 예측 성능이 떨어진다는 것을 확인 -> 가중치 증가를 통해 성능 향상
 - 학습률 : 0.001 ~ 0.005 실험 통해 -> 0.001
 - Earlystopping : patience 3
