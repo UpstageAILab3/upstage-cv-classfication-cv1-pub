@@ -63,8 +63,7 @@
 - ![image](https://github.com/user-attachments/assets/d438536b-6f44-46f8-a252-6a9a578c9385)
 - ![image](https://github.com/user-attachments/assets/518b7144-d60b-46c6-b6a1-92c4b3fffb4f)
 - ![image](https://github.com/user-attachments/assets/2db44821-f42b-4da5-823c-c33f9323976d)
-
-- _Describe your EDA process and step-by-step conclusion_
+- 
 
 ### Data Processing
 
