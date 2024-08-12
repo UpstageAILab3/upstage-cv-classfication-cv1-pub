@@ -5,11 +5,11 @@
 | ![박패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![오패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
 |            [최제우](https://github.com/UpstageAILab)             |            [이아윤](https://github.com/UpstageAILab)             |            [이승현](https://github.com/UpstageAILab)             |            [이한국](https://github.com/UpstageAILab)             |            [현재호](https://github.com/UpstageAILab)             |
-|                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
+|                            팀원                             |                            팀원                             |                            팀원                             |                            팀원                             |                            팀원                             |
 
 ## 0. Overview
 ### Environment
-- _Write Development environment_
+- VSC, server RTX 3090
 
 ### Requirements
 - _Write Requirements_
@@ -18,7 +18,9 @@
 
 ### Overview
 
-- _Write competition information_
+Document Type Classification / 17종 문서 타입 분류
+![image](https://github.com/user-attachments/assets/2dbfea5b-b253-4fd1-b612-43dbc684a6d1)
+
 
 ### Timeline
 
