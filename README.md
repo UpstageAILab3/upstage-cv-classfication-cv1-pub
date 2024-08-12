@@ -74,13 +74,18 @@
 
 ### Model descrition
 
-- _Write model information and why your select this model_
+- timm - resnet34, resnet50, efficientnet_b0, efficientnet_b4 모델로 실험
+  - 시간과 성능 고려하여 efficientnet_b0 고정 
 
 ### Modeling Process
 
-- _Write model train and test process with capture_
+- 가중치 : 시각화를 통해 양식이 유사한 3, 7, 14 클래스에 대한 예측 성능이 떨어진다는 것을 확인 -> 가중치 증가를 통해 성능 향상
+- 학습률 : 0.001 ~ 0.005 실험 통해 -> 0.001
+- Earlystopping : patience 3
+- Loss function : Cross-Entropy Loss, Adam 
 
 ## 5. Result
+- Train Accuracy: 0.8797, Train F1 Score: 0.8526, Validation Accuracy: 0.8604, Validation F1 Score: 0.8224
 
 ### Leader Board
 - Leaderboard_mid
